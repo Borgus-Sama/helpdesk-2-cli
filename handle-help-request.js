@@ -16,6 +16,7 @@ const handleHelpRequest = async questions => {
         '\x1b[31m',
         `Something went wrong. Please show a tutor the following error message: \n${err}`
       )
-    );
+    )
+    .then(() => console.log('\x1b[0m'));
 };
 module.exports = handleHelpRequest;
