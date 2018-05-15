@@ -4,8 +4,11 @@ NC HELPDESK is a command line tool designed to manage our ability to provide ass
 
 ## How to install
 
-To install this package, please run the following command in your terminal:
+To install this package, clone down the repo using the following command:
 
-`npm install -g git+https://github.com/northcoders/helpdesk-2-cli.git`
+`git clone https://github.com/northcoders/helpdesk-2-cli.git`
 
-To run nchelp, just type nchelp.
+Then `cd` into this repo and run the command
+`npm i -g` in order to ensure that it is installed globally on your computer.
+
+To run nchelp, just type nchelp in your terminal.
