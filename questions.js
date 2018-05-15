@@ -1,12 +1,12 @@
 module.exports = [
   {
     type: 'input',
-    message: 'Hi there! And who the devil are you?',
+    message: 'Hi there! And who on Earth you?',
     name: 'student'
   },
   {
     type: 'input',
-    message: "What's up [INSERT STUDENT NAME HERE]?",
+    message: 'Describe your problem:',
     name: 'text'
   },
   {
