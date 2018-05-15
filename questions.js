@@ -18,7 +18,9 @@ module.exports = [
       'Back End 2',
       'Front End 1',
       'Front End 2',
-      'Project Phase'
+      'Project Phase',
+      'Part Time - Remote',
+      'Part Time - On Site'
     ],
     name: 'cohort'
   }
