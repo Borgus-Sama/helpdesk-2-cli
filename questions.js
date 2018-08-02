@@ -1,7 +1,7 @@
 module.exports = [
   {
     type: 'input',
-    message: 'Hi there! And who on Earth you?',
+    message: 'Hi there! And who on Earth are you?',
     name: 'student'
   },
   {
