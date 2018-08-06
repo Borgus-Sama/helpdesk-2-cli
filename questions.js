@@ -11,16 +11,14 @@ module.exports = [
   },
   {
     type: 'list',
-    message: "I'm so sorry to hear that. 😢. What cohort are you in?",
+    message: "I'm so sorry to hear that. 😢. Which block are you in?",
     choices: [
       'Core',
       'Back End 1',
       'Back End 2',
       'Front End 1',
       'Front End 2',
-      'Project Phase',
-      'Part Time - Remote',
-      'Part Time - On Site'
+      'Project Phase'
     ],
     name: 'cohort'
   }
